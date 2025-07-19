@@ -1,6 +1,14 @@
 # python-tools
 Manage and automate tasks arround Python projects.
 
+- [Dependency management](#dependency-management)
+  - [Project setup](#project-setup)
+  - [Powershell scripts](#powershell-scripts)
+  - [Visual Studio Code](#visual-studio-code)
+    - [settings.json](#settingsjson)
+    - [tasks.json](#tasksjson)
+
+
 ## Dependency management
 
 > If I have seen further, it is by standing on the shoulders of giants
